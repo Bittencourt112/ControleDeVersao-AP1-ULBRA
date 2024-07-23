@@ -1,4 +1,4 @@
-# ControleDeVersaoULBRA
- Atividades de Aula  - Sala: Controle de Versão - ULBRA
+# Sobre
+ Repositório utilizado para as seguintes aulas:
  - Atividade Parcial 1
  - Atividade Prática 2
