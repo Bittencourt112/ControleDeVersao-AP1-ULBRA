@@ -1,2 +1,2 @@
-# ControleDeVersaoAP1
- Atividade Parcial 1  - Sala: Controle de Versão - ULBRA
+# ControleDeVersaoULBRA
+ Atividades de Aula  - Sala: Controle de Versão - ULBRA
